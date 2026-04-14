@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Chen",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "sarah.chen@gmail.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["college", "close friend"],
+    "bio": "Met in university during our sophomore year. We bonded over late-night study sessions and terrible dining hall food. She's now a UX designer at a major tech company.",
+    "goal": 14,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Johnson",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "marcus.j@outlook.com",
+    "days_since_contact": 31,
+    "status": "overdue",
+    "tags": ["work", "mentor"],
+    "bio": "My former manager who took a chance on hiring me fresh out of university. His no-nonsense advice has shaped my career more than any course ever could.",
+    "goal": 30,
+    "next_due_date": "2026-03-15"
+  },
+  {
+    "id": 3,
+    "name": "Aisha Patel",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "aisha.patel@yahoo.com",
+    "days_since_contact": 11,
+    "status": "almost due",
+    "tags": ["travel", "hobby"],
+    "bio": "We met on a backpacking trip through Southeast Asia. She has an infectious laugh and an uncanny ability to find the best street food in any city.",
+    "goal": 14,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 4,
+    "name": "Tom Baker",
+    "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+    "email": "tombaker99@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["childhood", "close friend"],
+    "bio": "Known Tom since we were seven years old. We grew up on the same street and survived middle school together. He shows up without being asked.",
+    "goal": 30,
+    "next_due_date": "2026-05-01"
+  },
+  {
+    "id": 5,
+    "name": "Olivia Martinez",
+    "picture": "https://randomuser.me/api/portraits/women/21.jpg",
+    "email": "olivia.m@proton.me",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["family", "neighbor"],
+    "bio": "Olivia was our next-door neighbor for eight years and felt like family. She moved to another city but we swore we'd keep in touch.",
+    "goal": 21,
+    "next_due_date": "2026-03-01"
+  },
+  {
+    "id": 6,
+    "name": "Ryan O'Brien",
+    "picture": "https://randomuser.me/api/portraits/men/11.jpg",
+    "email": "ryan.obrien@gmail.com",
+    "days_since_contact": 18,
+    "status": "almost due",
+    "tags": ["gym", "work"],
+    "bio": "We met at the gym and discovered we work in the same industry. Our conversations mix fitness tips with career strategy.",
+    "goal": 21,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 7,
+    "name": "Priya Sharma",
+    "picture": "https://randomuser.me/api/portraits/women/57.jpg",
+    "email": "priya.sharma@gmail.com",
+    "days_since_contact": 7,
+    "status": "on-track",
+    "tags": ["college", "book club"],
+    "bio": "Priya and I started a book club that became more of a life advice club. She has incredible emotional intelligence.",
+    "goal": 14,
+    "next_due_date": "2026-04-21"
+  },
+  {
+    "id": 8,
+    "name": "James Wright",
+    "picture": "https://randomuser.me/api/portraits/men/54.jpg",
+    "email": "james.wright@hotmail.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["hobby", "travel"],
+    "bio": "Met James at a photography workshop three years ago. His eye for composition is extraordinary. We keep planning a road trip.",
+    "goal": 30,
+    "next_due_date": "2026-02-15"
+  },
+  {
+    "id": 9,
+    "name": "Lena Fischer",
+    "picture": "https://randomuser.me/api/portraits/women/33.jpg",
+    "email": "lena.fischer@gmail.com",
+    "days_since_contact": 9,
+    "status": "on-track",
+    "tags": ["work", "close friend"],
+    "bio": "Lena and I worked on the same product launch for six months and became inseparable. She moved back to Berlin but we do a weekly video call without fail.",
+    "goal": 14,
+    "next_due_date": "2026-04-23"
+  },
+  {
+    "id": 10,
+    "name": "Daniel Okafor",
+    "picture": "https://randomuser.me/api/portraits/men/83.jpg",
+    "email": "daniel.okafor@proton.me",
+    "days_since_contact": 28,
+    "status": "almost due",
+    "tags": ["college", "mentor"],
+    "bio": "Daniel was my senior thesis advisor and became a genuine friend afterward. He has a gift for asking the one question that reframes everything.",
+    "goal": 30,
+    "next_due_date": "2026-04-18"
+  }
+]
