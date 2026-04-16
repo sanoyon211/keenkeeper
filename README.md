@@ -1,4 +1,4 @@
-# 💚 KeenKeeper — Keep Your Friendships Alive
+# 💚 KeenKeeper
 
 > Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.
 
@@ -28,8 +28,3 @@
 npm install
 npm run dev
 ```
-
-## 📬 Submission
-
-- **Live Link**: 
-- **GitHub Repository**: 
