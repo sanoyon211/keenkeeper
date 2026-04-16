@@ -53,8 +53,8 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-[#F8FAFC]">
       {/* ── Banner ── */}
-      <section className="bg-[#F8FAFC] border-b border-gray-100">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
+      <section className="bg-[#F8FAFC] ">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center ">
           <h1 className="font-display text-4xl sm:text-5xl font-bold text-gray-900 leading-tight mb-4">
             Friends to keep close in your life
           </h1>
@@ -91,9 +91,15 @@ export default function Home() {
         </div>
       </section>
 
+      <div className=" max-w-7xl mx-auto px-3 sm:px-6">
+        <hr className="border-none  h-0.5 w-full bg-gray-200 " />
+      </div>
+
       {/* ── Friends Section ── */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-        <h2 className="text-xl sm:text-3xl font-bold text-gray-900 mb-6">Your Friends</h2>
+        <h2 className="text-xl sm:text-3xl font-bold text-gray-900 mb-6">
+          Your Friends
+        </h2>
 
         {loading ? (
           <div className="flex flex-col items-center justify-center py-28 gap-4">
